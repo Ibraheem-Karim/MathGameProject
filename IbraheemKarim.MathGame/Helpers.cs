@@ -4,7 +4,7 @@
     {
         public static string GetUserName()
         {
-            string name = "";
+            string? name = "";
             do
             {
                 Console.Clear();
